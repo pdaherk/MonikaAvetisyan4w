@@ -1,0 +1,12 @@
+@font-face{
+	font-family: actor-bold;
+	src: url(../fonts/actor-bold.woff2);
+}
+@font-face{
+	font-family: actor-normal;
+	src: url(../fonts/actor-normal.woff2);
+}
+@font-face{
+	font-family: actor-medium;
+	src: url(../fonts/actor-medium.woff2);
+}
